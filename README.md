@@ -1,3 +1,3 @@
 reddit
 ======
-Questions from [r/DailyProgrammer](reddit.com/r/dailyprogrammer)
+Questions from [r/DailyProgrammer](www.reddit.com/r/dailyprogrammer)
